@@ -134,7 +134,8 @@ float: left;
   flex-direction: column;
 }
 #featureCardsContainer img{
-  height: 150px;
+  height: 90px;
+  margin-top: 3em;
   margin-right: 2rem;
 }
 #featureCardsContainer p{
@@ -149,7 +150,7 @@ float: left;
   margin-top: 10em;
   padding-bottom: 10em;
   text-align: center;
-  background: url("https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/imgs//shapes/9.svg");
+  background-image: url("https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/imgs//shapes/9.svg");
   background-size: cover;
 }
 
@@ -495,6 +496,7 @@ border-radius: 5px;
   height: 40px;
   border-radius: 5px;
   margin-top: 20px;
+  font-size: larger;
 }
 .contact .lol .center #submit::hover{
   background-color: rgba(0 , 0, 0, .6);
@@ -504,6 +506,6 @@ footer{
   color: white;
   text-align: center;
   height: 2em;
-  font-size: 28px;
+  font-size: 1rem;
   padding: 25px;
 }
