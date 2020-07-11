@@ -134,8 +134,8 @@ float: left;
   flex-direction: column;
 }
 #featureCardsContainer img{
-  height: 90px;
-  margin-top: 3em;
+  height: 91px;
+  margin-top: 3.1em;
   margin-right: 2rem;
 }
 #featureCardsContainer p{
